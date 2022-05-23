@@ -1,0 +1,13 @@
+# Download weights for backbone network
+    https://pjreddie.com/media/files/darknet53.conv.74
+
+# Download trained weights for Birdnet-YOLOv3
+    https://drive.google.com/file/d/1jUBM98aq6EC0ooMNHi4Sc1CNl84JZbja/view?usp=sharing
+
+    
+    
+# Download weights for vanilla YOLOv3
+    https://pjreddie.com/media/files/yolov3.weights
+
+# Download weights for tiny YOLOv3
+    https://pjreddie.com/media/files/yolov3-tiny.weights 
